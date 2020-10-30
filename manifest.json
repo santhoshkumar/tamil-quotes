@@ -1,0 +1,18 @@
+{
+	"manifest_version": 2,
+	"name": "Tamil Quotes",
+	"description": "Tamil Quotes - A Chromium Based Browser Extension for Display Random Tamil kavithai and Quotes Near Top Menu.",
+	"version": "0.1",
+	"icons": {
+		"128": "images/Icon-128.png",
+		"48": "images/Icon-48.png",
+		"16": "images/Icon-16.png"
+	},
+	"browser_action": {
+		"default_icon": "images/Icon-16.png",
+		"default_popup": "hello.html"
+	},
+	"options_page": "hello.html",
+	"short_name": "Tamil Quotes",
+	"homepage_url": "https://sanweb.info/"
+}
